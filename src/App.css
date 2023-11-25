@@ -1,0 +1,9 @@
+.app {
+  background-color: rgb(247, 218, 218);
+  min-height: 100vh;
+  height: 100%;
+}
+.main-container {
+  width: 85%;
+  margin: 16px auto;
+}

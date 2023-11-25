@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "productName": "Avocado",
+    "brand": "Avocado Brand",
+    "price": 60.67,
+    "quantity": 0,
+    "total": 0,
+    "status": ""
+  },
+  {
+    "id": 2,
+    "productName": "Banana",
+    "brand": "Banana Brand",
+    "price": 25.49,
+    "quantity": 0,
+    "total": 0,
+    "status": ""
+  },
+  {
+    "id": 3,
+    "productName": "Orange",
+    "brand": "Orange Brand",
+    "price": 30.99,
+    "quantity": 0,
+    "total": 0,
+    "status": ""
+  },
+  {
+    "id": 4,
+    "productName": "Apple",
+    "brand": "Apple Brand",
+    "price": 45.25,
+    "quantity": 0,
+    "total": 0,
+    "status": ""
+  },
+  {
+    "id": 5,
+    "productName": "Grapes",
+    "brand": "Grapes Brand",
+    "price": 55.88,
+    "quantity": 0,
+    "total": 0,
+    "status": ""
+  }
+]

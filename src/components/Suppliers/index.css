@@ -1,0 +1,30 @@
+.supplier-details {
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  width: 100%;
+  border-radius: 16px;
+  padding: 10px 20px;
+}
+.details-container {
+  margin: 0 auto;
+  border-right: 2px solid gray;
+}
+.d-text-container {
+  margin: 0 10px;
+  padding: 5px;
+}
+.details-container:last-child {
+  border-right: none;
+}
+
+.detail-label {
+  color: gray;
+  font-weight: 400;
+  margin-bottom: 5px;
+}
+.detail-text {
+  color: black;
+  font-weight: 500;
+  font-size: 22px;
+}
